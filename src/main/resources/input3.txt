@@ -1,0 +1,4 @@
+Import Perfume,27.99,perfume,true
+Perfume,18.99,perfume,false
+Headache Pills,9.75,medical,false
+Imported Chocolate,11.25,food,true

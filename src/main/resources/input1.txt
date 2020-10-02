@@ -1,0 +1,3 @@
+Book1,12.49,book,false
+Music CD,14.99,music,false
+Chocolate Bar,0.85,food,false

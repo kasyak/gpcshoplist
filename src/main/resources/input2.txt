@@ -1,0 +1,2 @@
+Import Chocolate,10.00,food,true
+Import Perfume,47.50,perfume,true
